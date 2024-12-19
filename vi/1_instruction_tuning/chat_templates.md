@@ -105,7 +105,7 @@ messages = [
 ]
 ```
 
-⏭️ [Tiếp theo: Huấn luyện có giám sát](./supervised_fine_tuning.md)
+⏭️ [Tiếp theo: Tinh chỉnh có giám sát](./supervised_fine_tuning.md)
 
 ## Tài liệu tham khảo
 
